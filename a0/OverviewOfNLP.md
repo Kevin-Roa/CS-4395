@@ -1,5 +1,5 @@
 # Overview of NLP
-> [Download as PDF](./Overview%20of%20NLP.pdf)
+> [Download as PDF](./OverviewOfNLP.pdf)
 
 ## What is NLP?
 NLP Stands for "Natural Language Processing." It is a branch of computer science and linguistics pertaining to the ability for computers to comprehend human language, whether it be text/speech/etc. The study of NLP goes as far back as the 1950s yet is still under thorough research today.
