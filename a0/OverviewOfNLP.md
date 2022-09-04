@@ -55,4 +55,4 @@ I am interested in learning about and utilizing NLP because I see it as a major 
 
 > [5] “11 Natural Language Processing (NLP) Applications in Business,” MonkeyLearn Blog, May 20, 2020. https://monkeylearn.com/blog/natural-language-processing-applications/
 
-> [6] K. Mazidi, Exploring NLP with Python | Building Understanding Through Code. 2019.
+> [6] K. Mazidi, Exploring NLP with Python: Building Understanding Through Code. 2019.
