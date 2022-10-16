@@ -1,15 +1,17 @@
 # Table of Contents
 
-[A0: Overview of NLP](a0/OverviewOfNLP.md)
+[0. Overview of NLP](overview/OverviewOfNLP.md)
 
-[A1: Text Processing with Python](a1/a1.md)
+[1. Text Processing with Python](text_processing/a1.md)
 
-[A2: Exploring NLTK](a2/a2.md)
+[2. Exploring NLTK](exploring_nltk/a2.md)
 
-[A3: Word Guessing Game](a3/a3.md)
+[3. Word Guessing Game](guessing_game/a3.md)
 
-[A4: WordNet](a4/a4.md)
+[4. WordNet](wordnet/a4.md)
 
-[A5: Ngrams](a5/a5.md)
+[5. Ngrams](ngrams/a5.md)
 
-[A6: Web Crawler Corpus](a6/a6.md)
+[6. Web Crawler Corpus](web_crawler/a6.md)
+
+[7. Sentence Parsing](sentence_parsing/kar180005_sen_parse.pdf)

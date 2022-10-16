@@ -1,6 +1,6 @@
-/a5/ngram_files/*.pkl
-/a5/ngram_files/*out.txt
+/ngrams/ngram_files/*.pkl
+/ngrams/ngram_files/*out.txt
 
-/a6/tokenized_files
-/a6/raw_files
-/a6/knowledge_base
+/web_crawler/tokenized_files
+/web_crawler/raw_files
+/web_crawler/knowledge_base
