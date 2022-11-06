@@ -15,3 +15,5 @@
 [6. Web Crawler Corpus](web_crawler/a6.md)
 
 [7. Sentence Parsing](sentence_parsing/kar180005_sen_parse.pdf)
+
+[8. Author Attribution](author_attribution/a8_kar180005.pdf)
