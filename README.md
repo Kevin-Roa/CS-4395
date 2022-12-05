@@ -21,3 +21,5 @@
 [9. ACL Paper Summary](acl_paper_summary/a9_kar180005.pdf)
 
 [10. Chatbot](chatbot/chatbot_report_kar180005.pdf)
+
+[11. Spam Text Classification](text_classification/a11_kar180005.pdf)
