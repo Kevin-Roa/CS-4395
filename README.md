@@ -1,5 +1,11 @@
 # Table of Contents
 
+Writeups for the assignments of the course CS4395 Natural Language Processing at the University of Texas at Dallas.
+
+To view the writeups, click on the links below.
+
+To view the code, go to the github repository [here](https://github.com/Kevin-Roa/cs4395-human-lang-tech) and navigate the folders.
+
 [0. Overview of NLP](overview/OverviewOfNLP.md)
 
 [1. Text Processing with Python](text_processing/a1.md)

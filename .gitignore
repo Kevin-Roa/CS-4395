@@ -7,3 +7,5 @@
 
 /chatbot/model/*
 /chatbot/usermodels/*
+
+*.zip
